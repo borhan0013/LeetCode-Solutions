@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,4 +74,17 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
