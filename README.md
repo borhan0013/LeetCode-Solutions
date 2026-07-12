@@ -66,15 +66,18 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/borhan0013/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
